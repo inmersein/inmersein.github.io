@@ -1,0 +1,21 @@
+title: bnvulpe
+url: https://bnvulpe.github.io/inmersein/
+baseurl: 
+
+author: bnvulpe
+
+include: ['_pages']
+
+collections_dir: series
+
+collections:
+  artwork:
+    output: true
+  elit:
+    output: true
+  locus:
+    output: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
