@@ -28,6 +28,6 @@ This forces GitHub Pages to rebuild your site with Jekyll.
 A few seconds later, your site should be visible at: https://yourgithubusername.github.io 
 If it still hasn’t appeared, give it a few minutes (GitHub may take up to ~10 min on the initial build).
 
+**3. Personalise your portfolio!**
 
-
-
+Change the images, font, icon, social media links, and everything you want to make this site your own. 
