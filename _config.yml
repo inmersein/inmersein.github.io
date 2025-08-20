@@ -1,8 +1,8 @@
-title: bnvulpe
-url: https://bnvulpe.github.io/inmersein/
+title: inmersein
+url: https://inmersein.github.io
 baseurl: 
 
-author: bnvulpe
+author: inmersein
 
 include: ['_pages']
 
