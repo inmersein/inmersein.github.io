@@ -1,7 +1,7 @@
 ---
 title: Photos
 layout: default
-description: quisque.
+description: 
 type: project
 order: 4
 ---
