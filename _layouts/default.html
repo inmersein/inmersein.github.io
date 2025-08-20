@@ -40,7 +40,7 @@
 				<article class="thumb">
 					<div class="image-wrapper">
 					<img class="lozad u-max-full-width" data-src="{{ coll.label | append: '/' | append: image.name | relative_url }}" alt="{{ image.basename }}" />
-					<p class="font-bethellen thumb-title" style=" color: lightgrey; text-align: center;">{{ image.basename | remove: '.jpg' | remove: '.png' | remove: '.gif' | replace:"_"," " | replace_regex: '[0-9]', ''}}</p>
+					<p class="font-bethellen thumb-title" style=" color: lightgrey; text-align: center;">{{ image.basename | remove: '.jpg' | remove: '.png' | remove: '.gif' | replace:"_"," " | remove: "0" | remove: "1" | remove: "2" | remove: "3" | remove: "4" | remove: "5" | remove: "6" | remove: "7" | remove: "8" | remove: "9"}}</p>
 					</div>
 				</article>
 				{% endfor %}
@@ -51,7 +51,7 @@
 				<article class="thumb">
 					<div class="image-wrapper">
 					<img class="lozad u-max-full-width" data-src="{{ coll.label | append: '/' | append: image.name | relative_url }}" alt="{{ image.basename }}" />
-					<p class="font-bethellen thumb-title" style=" color: lightgrey; text-align: center;">{{ image.basename | remove: '.jpg' | remove: '.png' | remove: '.gif' | replace:"_"," " | replace_regex: '[0-9]', ''}}</p>
+					<p class="font-bethellen thumb-title" style=" color: lightgrey; text-align: center;">{{ image.basename | remove: '.jpg' | remove: '.png' | remove: '.gif' | replace:"_"," " | remove: "0" | remove: "1" | remove: "2" | remove: "3" | remove: "4" | remove: "5" | remove: "6" | remove: "7" | remove: "8" | remove: "9"}}</p>
 					</div>
 				</article>
 
@@ -63,7 +63,7 @@
 				<article class="thumb">
 					<div class="image-wrapper">
 					<img class="lozad u-max-full-width" data-src="{{ coll.label | append: '/' | append: image.name | relative_url }}" alt="{{ image.basename }}" />
-					<p class="font-bethellen thumb-title" style=" color: lightgrey; text-align: center;">{{ image.basename | remove: '.jpg' | remove: '.png' | remove: '.gif' | replace:"_"," " | replace_regex: '[0-9]', ''}}</p>
+					<p class="font-bethellen thumb-title" style=" color: lightgrey; text-align: center;">{{ image.basename | remove: '.jpg' | remove: '.png' | remove: '.gif' | replace:"_"," " | remove: "0" | remove: "1" | remove: "2" | remove: "3" | remove: "4" | remove: "5" | remove: "6" | remove: "7" | remove: "8" | remove: "9"}}</p>
 					</div>
 				</article>
 				{% endfor %}
