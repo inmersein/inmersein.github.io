@@ -1,5 +1,5 @@
 ---
-title: Locus
+title: Photos
 layout: default
 description: quisque.
 type: project
