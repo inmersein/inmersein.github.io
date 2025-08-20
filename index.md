@@ -9,10 +9,7 @@ order: 2
 <div class="section main">
 	<div class="container">
 		<p markdown="1" style="text-align: center;">
-		Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-<br />
-<br />
-		Dolor sit amet consectetur adipiscing elit quisque faucibus.
+		Who are you when you are not performing for the people inside your mind?
 <br />
 </p>
 	</div>
