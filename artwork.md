@@ -1,7 +1,7 @@
 ---
 title: Artwork
 layout: default
-description: eu aenean sed diam urna tempor pulvinar vivamus.
+description: on canvas.
 type: parent
 order: 3
 ---

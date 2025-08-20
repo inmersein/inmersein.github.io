@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: rest
-description: lorem ipsum dolor sit amet.
+description: through lens.
 type: parent
 order: 3
 ---
