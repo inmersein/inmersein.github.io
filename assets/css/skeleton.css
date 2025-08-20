@@ -399,9 +399,8 @@ form {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .image-wrapper {
   display: inline-block;
-/* padding: 10px;           
+  padding: 10px;           
   border: 1px solid #cacaca;  
-*/
   background: white;
   box-sizing: border-box;
 }
@@ -515,7 +514,7 @@ form {
 .thumb {
   min-height: 16em; 
   text-align: center;
-  padding: 70px;  /* control the spacing in the gallery  */
+  /* padding: 70px;   control the spacing in the gallery  */
 }
 .thumb img {
   cursor: pointer; }
