@@ -11,7 +11,7 @@ collections_dir: series
 collections:
   artwork:
     output: true
-  elit:
+  film:
     output: true
   locus:
     output: true
